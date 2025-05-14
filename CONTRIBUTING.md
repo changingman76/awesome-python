@@ -1,5 +1,7 @@
+
 # Contributing
 # "bitte sende eine Mail an: lieblings_kollege@firma.com"
+# weitere Änderungen vorgenommen
 Your contributions are always welcome!
 
 ## Guidelines
